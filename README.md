@@ -31,11 +31,3 @@ At each step, the agent evaluates possible moves and selects the best option bas
 - Finds optimal path
 - Avoids loops and dead ends
 
-
-
-## How to Run
-
-```bash
-python "Iteration 1_Greedy Algorithm.py"
-python "Iteration 2_Greedy AlgorithmwithMemory.py"
-python "Iteration 3_A Pathfinding.py"
