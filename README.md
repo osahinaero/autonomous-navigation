@@ -1,21 +1,19 @@
 # Autonomous Navigation
 
 ## Overview
-This project simulates an autonomous agent navigating a 2D grid with obstacles to reach a target location.
+I made this to simulate an autonomous agent navigating a 2D grid with obstacles to reach a target location.
 
-It explores three approaches:
+I compared three approaches:
 1. Greedy algorithm
 2. Greedy algorithm with memory
 3. A* pathfinding
-
----
 
 At each step, the agent evaluates possible moves and selects the best option based on:
 - grid boundaries
 - obstacle avoidance
 - distance to the target
 
----
+
 
 ##  Iterations
 
@@ -33,7 +31,7 @@ At each step, the agent evaluates possible moves and selects the best option bas
 - Finds optimal path
 - Avoids loops and dead ends
 
----
+
 
 ## How to Run
 
